@@ -231,15 +231,9 @@ We supported these formats to input when you don't use config file:
 - ELF(UNIX & Linux)
 - PE(Windows)
 - Mach-O(macOS)
-- FCEF(E-comOS)
 - Intel HEX
 - BIN file
-We supported these formats to output when you don't use config file:
-- ELF
-- PE
-- Mach-O
-- FECF
-- BIN file
+
 ## Contact
 If you have any questions or suggestions , please send email to <saladin131211@gmail.com> or <saladin510@outlook.com><br>
 If you found out some issues or bugs , please open a issue<br>
