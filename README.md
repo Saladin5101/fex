@@ -6,7 +6,7 @@ Do you want chanage the format of binary files ? Do you have a new format but no
 We only support FEX in Linux(I am using Fedora 43 Workstation) and macOS(I am using macOS 26), **WE DO NOY SUPPORT WINDOWS** , if you want to use FEX , you can use WSL.<br>
 You should install it due Cargo , command is:
 ```bash
-cargo install fex
+cargo install fex-tool
 ```
 Then Cargo will do anything for install , you only need to waitting for install end<br>
 ### 2. You Have To Know Before Install 

@@ -1,7 +1,8 @@
 [package]
-name = "fex"
+name = "fex-tool"
 version = "0.1.0"
-edition = "2021"\nauthors = ["FEX Developers"]
+edition = "2021"
+authors = ["Saladin5101"]
 description = "Format EXchange - convert binary files and JSON-defined formats"
 license = "GPL-3.0-or-later"
 repository = "https://github.com/your/repo"
